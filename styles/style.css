@@ -19,6 +19,7 @@
 .header__logo {
   width: 148px;
   height: 105px;
+  margin: auto;
 }
 .header__link {
   color: #000;
